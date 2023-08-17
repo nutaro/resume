@@ -47,7 +47,6 @@ A seasoned Python/DevOps specialist with a proven track record in designing, dep
 - Curated, analyzed, and managed cloud provider data while demonstrating proficiency in Linux, Kubernetes, and DevOps practices.
 - Maintained React Front-end dashboard using JavaScript and integrated a versatile chatbot through clean code practices and design patterns.
 - Employed Jenkins for CI/CD and showcased advanced Git skills for efficient version control.
-- Managed and optimized databases, including MongoDB and OrientDB, for data integrity and availability within the DevOps framework.
 
 ### Linx - Jul 2019 - Dec 2019
 *Back-end Developer*
