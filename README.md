@@ -26,7 +26,7 @@ A seasoned Python/DevOps specialist with a proven track record in designing, dep
 ## Experience
 
 ### Qintess - Jan 2023 - May 2023
-*DevOps Specialist*
+*DevOps Engineer*
 - Orchestrated infrastructure setup on AWS via managed Kubernetes cluster (EKS), employing Infrastructure as Code (I.A.C) principles with Terraform.
 - Skillfully utilized Docker and Helm for containerization and streamlined deployment of applications.
 - Ensured application health through vigilant monitoring with CloudWatch, responding promptly to any anomalies.
@@ -50,11 +50,12 @@ A seasoned Python/DevOps specialist with a proven track record in designing, dep
 
 ### Linx - Jul 2019 - Dec 2019
 *Back-end Developer*
-- Led mission-critical operations for Inventory and delivery fee calculator, leveraging Python specialization and DevOps expertise to ensure business continuity.
-- Designed, provisioned, and maintained microservices architecture using Terraform, enhancing scalability and modularity.
+- Led mission-critical operations for Inventory and delivery fee calculator.
+- Designed and maintained microservices architecture using Ansible for provisioning and configuration management, enhancing scalability and modularity.
 - Orchestrated data processing and storage across microservices, optimizing decision-making processes.
 - Practiced clean code principles and design patterns to enhance maintainability and extensibility of the codebase.
 - Managed MySQL and Elasticsearch databases to support microservices, optimizing queries for performance.
+- Developed features and fixed bugs using PHP and JavaScript.
 
 ### Digesto - Feb 2018 - June 2019
 *Python Developer*
