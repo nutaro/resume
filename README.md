@@ -1,7 +1,5 @@
 # Victor Souza
 Brazilian, single, 29 years old.  
-Phone: +5571996161063  
-E-mail: nutaro@protonmail.com  
 LinkedIn: [linkedin.com/in/nutaro](https://www.linkedin.com/in/nutaro/)
 
 ## Objective/Summary
